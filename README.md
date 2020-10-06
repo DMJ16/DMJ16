@@ -5,10 +5,12 @@ Currently looking for a role as a front-end, full-stack, back-end, and/or smart 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DMJ16&exclude_repo=as-algo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DMJ16&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🔬 Current Projects
+## 🔬 Projects
 [🚀 ⚛️ 👾 as-game-of-life](https://github.com/DMJ16/as-game-of-life) is a reworking of Conway's Game of Life in AssemblyScript (strict variant of TypeScript to WebAssembly compiler) and rendered in the browser using React, TypeScript, and the use-as-bind hook to interface with the compiled AssemblyScript.
 
 [🔏 erc1155](https://github.com/DMJ16/erc1155) is a factory contract for generating new ERC1155 contracts. The factory allows developers with knowledge of a number of languages to spawn a new smart contract for tokenzing assets without learning Solidity (Ethereum's smart contract language).
+
+[🔮 graphqlAPI](https://github.com/DMJ16/graphqlAPI) is an API for interfacing with an eCommerce website’s product reviews. [🎮 GraphQL Playground 🎮](http://ec2-34-204-6-123.compute-1.amazonaws.com:4000/reviews)
 
 [🚀 as-algo](https://github.com/DMJ16/as-algo) holds general algorithms, data structures, and practice WASI (WebAssembly System Interface) implementations in AssemblyScript.
 
@@ -21,6 +23,7 @@ I am fascinated by WebAssembly and its diverse applications in and outside of th
 
 ## 🌱 Learning
 #### ⚛️ React + Next.js + TypeScript
+#### 🔮 GraphQL + Apollo
 #### 🕸️ WebAssembly
 #### 🚀 AssemblyScript
 #### 🦀 Rust
