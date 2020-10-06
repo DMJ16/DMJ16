@@ -2,7 +2,7 @@
 ## 👷 Work
 Currently looking for a role as a front-end, full-stack, back-end, and/or smart contract developer. I am most experienced with JavaScript/TypeScript using React and Node.js. I studied web development and computer science at Hack Reactor ('20) and I studied finance at Emory University ('16).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DMJ16&exclude_repo=as-algo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DMJ16&exclude_repo=as-algo&layout=compact&hide=shell)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DMJ16&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔬 Projects
