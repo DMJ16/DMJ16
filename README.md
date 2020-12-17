@@ -1,6 +1,6 @@
 # David Josephs
 ## 👷 Work
-Currently looking for a frontend, fullstack, or smart contract developer role. I primarily use JavaScript/TypeScript, React, and Node.js. However, I also have experience writing smart contracts in Solidity using both Truffle and Hardhat, testing the contracts with TypeScript and TypeChain, and interfacing with Ethereum using the web3.js and ethers.js convenience libraries. I am familiar with the ERC20, ERC721, and ERC1155 token standards. I studied finance at Emory University and I studied web development and computer science at Hack Reactor.
+Currently looking for a fullstack and/or smart contract developer role. I primarily use JavaScript/TypeScript, React, and Node.js for fullstack development. For Web3 development I write smart contracts in Solidity using both Hardhat and Truffle, test the contracts with TypeScript, TypeChain, Mocha and Waffle, and interface with Ethereum using the web3.js and ethers.js convenience libraries. I am most interested in DeFi and am familiar with the ERC20, ERC721, and ERC1155 token standards. I studied finance at Emory University and I studied web development and computer science at Hack Reactor.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DMJ16&exclude_repo=as-algo&layout=compact&hide=shell)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DMJ16&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
